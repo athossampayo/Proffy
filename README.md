@@ -1,9 +1,5 @@
-# Proffy
-<p align="center">
-   <img src="https://github.com/athossampayo/Proffy/blob/master/webroot/img/logo.svg" alt="Proffy" width="250"/>
-</p>
+# - <img src="https://raw.githubusercontent.com/athossampayo/Proffy/master/webroot/img/favicon.png" alt="Proffy"> Proffy 
 ![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
-
 ---
 ## 📋 Index
 
@@ -37,7 +33,7 @@ This project proposes a plataform that allows the connection between studants an
 </p>
 
 ## Layout
-You can download the layout here: [![https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white]](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+You can download the layout here: [![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
 ## Development and Deploy
 **+** In this projetc we used the above technologies:
