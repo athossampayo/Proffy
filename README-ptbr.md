@@ -1,7 +1,4 @@
-# Proffy
-<p align="center">
-   <img fill="purple" src="https://github.com/athossampayo/Proffy/blob/master/webroot/img/logo.svg" color="" alt="Proffy" width="250"/>
-</p>
+# - <img src="https://raw.githubusercontent.com/athossampayo/Proffy/master/webroot/img/favicon.png" alt="Proffy"> Proffy 
 ![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 
 ---
@@ -13,13 +10,14 @@
     ·
 <a href="README-ptbr.md">Português</a>
 </p>
+
 - [Proffy](#proffy)
   - [📋 Índice](#-índice)
   - [Sobre](#sobre)
   - [Páginas](#páginas)
   - [Layout](#layout)
   - [Desenvolvimento e Deploy](#desenvolvimento-e-deploy)
-  - [Contribuindo](#contribuindo)
+  - [Contibuindo](#contribuindo)
   - [Licença](#licença)
 
 > :rocket: Projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, organizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 3 e 9 de Agosto de 2020.
@@ -38,7 +36,7 @@ O projeto propõe uma plataforma que permita a conexão entre estudantes e profe
 </p>
 
 ## Layout
-Você pode baixar o layout aqui: [![https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white]](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
+Você pode baixar o layout aqui: [![Figma](https://img.shields.io/badge/-Figma-blueviolet?style=flat-square&logo=Figma&logoColor=white)](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web)
 
 ## Desenvolvimento e Deploy
 **+** Nesse projeto utilizamos as seguinte tecnologias:
