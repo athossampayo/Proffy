@@ -1,4 +1,4 @@
-# - <img src="https://raw.githubusercontent.com/athossampayo/Proffy/master/webroot/img/favicon.png" alt="Proffy"> Proffy 
+# - <img src="https://raw.githubusercontent.com/athossampayo/Proffy/master/webroot/public/img/favicon.png" alt="Proffy"> Proffy 
 ![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)
 ---
 ## 📋 Index
